@@ -18,6 +18,6 @@ Computer Science Degree (ASTANA IT UNIVERSITY)
 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/samtokish/]))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/samtokish/](https://www.linkedin.com/in/samtokish/))
 &nbsp;
 
