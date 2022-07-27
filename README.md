@@ -27,7 +27,7 @@ Hi, I'm Samat Tokish!
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, Java
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1SVAdtfaQqAS7QLjwvMDwWNymFrAiO5jI/view?usp=sharing" target="_blank">MY RESUME.</a>
+<!-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1SVAdtfaQqAS7QLjwvMDwWNymFrAiO5jI/view?usp=sharing" target="_blank">MY RESUME.</a> -->
 </pre>
 <hr>
 
