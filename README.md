@@ -45,7 +45,7 @@ Hi, I'm Bouaskaoun Mohammed!
 <p>
     
     <a href="https://github.com/anzeder"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
+</p>
 ### 🧰 Frameworks and Libraries
 
 <p>
